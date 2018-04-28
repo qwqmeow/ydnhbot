@@ -31,3 +31,5 @@ thus,bot is running.
 
 have fun!
 
+# thanks
+@moonoulong
